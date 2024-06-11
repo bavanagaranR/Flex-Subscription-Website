@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+        font-family: "Poppins", sans-serif;
+    
+}
+    
+.Subscription{
+   
+  
+}
+.Subscription__title{
+   
+    background-color:hotpink;
+    color: black;
+    display: flex;
+   justify-content: center; 
+   
+   margin-left:150px;
+   margin-right:150px;
+   margin-top: 100px;
+
+}
+.Subscription__card{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+gap: 40px;
+
+
+justify-content:center;
+
+}
+.Subscription__card__s1 p{
+
+        margin: 10px;
+}
+.Subscription__card__s1{
+    border: solid white 1px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.Subscription__card__1{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border:solid  black 1px;
+    padding: 20px;
+    border-radius: 20px;
+}
